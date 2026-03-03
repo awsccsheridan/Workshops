@@ -2,6 +2,7 @@
 
 Hosted by **Preyas Patel** <br>
 Part of the **Cloud & DevOps Workshop Series**
+Recording : https://sheridanc.sharepoint.com/:v:/s/FAST-AWSCloudClub/IQCRnB3pUhLUQZpm8Djd5p9aATOFnMKhEh9qkTD85-1n8_8?e=IldSdm
 
 🕒 Duration: 2–3 Hours <br>
 📈 Difficulty: Intermediate <br>
