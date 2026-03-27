@@ -23,9 +23,7 @@ In this hands-on workshop, you will:
 
 ---
 
-# ⚙️ Prerequisites (Install Before You Start)
-
-> Install these tools and verify they work before the workshop begins.
+# ⚙️ Prerequisites
 
 ## 🐳 Docker Desktop
 Download: https://www.docker.com/products/docker-desktop  
